@@ -18,7 +18,8 @@ nav{
 }
 
 .navbar h1{
-	font-size: 30px;
+	font-size: 40px;
+
 }
 
 .navbar h1,li,a{
@@ -37,7 +38,6 @@ nav{
 
 body{
 	background: #060707;
-	width: 100%;
 	font-family: 'Saira', sans-serif;
 	margin: auto;
 	color: white;
@@ -50,10 +50,11 @@ body a{
 }
 
 .footer{
+	width :100%;
 	background:#27292d;
 	margin: auto;
 	text-align: center;
-	padding-right: 30px; 
+	padding-bottom: 1px; 
 }
 
 footer a{
@@ -70,7 +71,7 @@ section{
 
 .herounit{
 	background: #27292d;
-	padding: 10px;
+	//padding: 10px;
 	width: 100%;
 	float: left;
 	text-align: center;
