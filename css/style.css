@@ -6,13 +6,6 @@ nav{
 	
 }
 
-.navbar li{
-	list-style: none;
-	display: inline;
-	padding-right: 3px;
-	float: right;
-}
-
 .navbar a{
 	float: right;
 }
